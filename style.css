@@ -84,6 +84,7 @@ p{
     flex: 30%;
     min-width: 250px;
     margin-bottom: 30px;
+    margin: 10px;
     }
 .col-3 img{
 width: 100%;
@@ -163,7 +164,7 @@ small{
     color: #555;
     }
 
-------------------------------testimonial -------
+<!------------------------------testimonial ------->
 .testimonial {
     padding-top: 100px;
         }
